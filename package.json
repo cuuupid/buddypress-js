@@ -1,0 +1,22 @@
+{
+  "name": "buddypress-js",
+  "version": "1.0.0",
+  "description": "Simple and effective JS API to interface with BuddyPress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshah123/buddypress-js.git"
+  },
+  "author": "Priansh Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshah123/buddypress-js/issues"
+  },
+  "homepage": "https://github.com/pshah123/buddypress-js#readme",
+  "dependencies": {
+    "xmlrpc": "^1.3.2"
+  }
+}
